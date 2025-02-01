@@ -43,7 +43,6 @@ function goToLink(cellID) {
         case 14:
             openInCurrentTab("https://github.com/mk499490/StopReason");
             break;
-            break;
         case 21:
             openInCurrentTab("https://mk499490.hatenablog.com");
             break;
