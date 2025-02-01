@@ -48,9 +48,11 @@ function goToLink(cellID) {
             openInCurrentTab("https://mk499490.hatenablog.com");
             break;
         case 22:
+            openInCurrentTab("https://cc.peg.osaka")
+        case 23:
             openInCurrentTab("https://mk.peg.osaka");
             break;
-        case 23:
+        case 24:
             openInCurrentTab("https://md.peg.osaka");
             break;
         case 61:
