@@ -55,6 +55,12 @@ function goToLink(cellID) {
         case 24:
             openInCurrentTab("https://md.peg.osaka");
             break;
+        case 25:
+            openInCurrentTab("https://status.peg.osaka");
+            break;
+        case 26:
+            openInCurrentTab("https://status.minecraft.osaka");
+            break;
         case 61:
             openInCurrentTab("https://twitter.com/mk499490");
             break;
