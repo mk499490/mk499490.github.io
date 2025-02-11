@@ -74,7 +74,7 @@ function goToLink(cellID) {
             openInCurrentTab("https://twitch.tv/mk499490");
             break;
         case 65:
-            openInCurrentTab("https://paypal.me/mk499490");
+            openInCurrentTab("https://paypal.me/pegsan");
             break;
         case 66:
             openInCurrentTab("mailto:inquiry@peg.osaka");
